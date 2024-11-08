@@ -21,7 +21,7 @@ pTime = 0
 detector = htm.handDetector(detectionCon = 0.7)
 
 
-
+##Enable some changes
 
 
 while True:
